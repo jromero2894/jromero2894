@@ -8,11 +8,11 @@
 
 - 💻 I'm Engineer of Technologies of information and communications.
 
-- 🌱 I am currently focused on the Backend area with **Java (Spring Boot)** in the development of **Microservices and Rest API.**
+- 🌱 I have around three years of experience and I´m currently focused on the Backend with **Java (Spring Boot)** in the development of **Microservices and Rest API.**
 
-- 📝 But also I worked with Web development technologies like a **PHP, HTML, CSS, JS.**
+- 📝 But also I worked with **Web development** for more six years with technologies like a **PHP, HTML, CSS, JS (I'm currently learning react and angular).**
 
-- ☁️ I have experience in **Google Cloud Platform, Docker containers** and management databases like as **PostgreSQL, SQL and MySQL**.
+- ☁️ I have experience in **Google Cloud Platform, Docker containers and management databases** like as **PostgreSQL, SQL & MySQL**.
 
 - 📫 My email: **jorgerb2094@outlook.com**
 
@@ -45,4 +45,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=jromero2894&icon=0&color=9)](https://visitcount.itsvg.in)
 <br>
-Last edition: 07/08/2024
+Last edition: 29/08/2024
